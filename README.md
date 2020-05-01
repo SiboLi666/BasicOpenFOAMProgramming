@@ -1,15 +1,7 @@
-## Welcome to this set of OpenFOAM® programming tutorials!
-
-These are intented to provide a beginner C++ programmer with hands-on examples of
-how to develop code within the OpenFOAM® framework. These tutorials hope to be more
-approachable than most of the materials available on-line, which tend to assume
-that the user is proficient in the C++ programming language. Please see below for
-a brief summary of what each individual tutorial covers and how to use it.
-
-The tutorials have been most recently tested on the official OpenFOAM 3.0.1 version.
 
 ## Requirements
 
+The tutorials have been most recently tested on the official OpenFOAM 3.0.1 version.
 It's advisable that you go through these basic C++ tutorials, having tried compiling
 and running most of the examples, before continuing:
 http://www.cplusplus.com/doc/tutorial/
@@ -19,16 +11,6 @@ If not, it's highly recommended you go through the official tutorials before you
 dive into the programming part:
 https://cfd.direct/openfoam/user-guide/tutorials/
 
-Enjoy and please provide me with feedback to make these tutorials more useful!
-Contributions from the community are also more than welcome!
-
-Copyright by Artur K. Lidtke, 2017.
-
-## Disclaimer
-
-This offering is not approved or endorsed by OpenCFD Limited, producer
-and distributor of the OpenFOAM® software via www.openfoam.com, and owner of the
-OPENFOAM® and OpenCFD® trade marks.
 
 ---------
 ## Tutorial 0 - Hello world
